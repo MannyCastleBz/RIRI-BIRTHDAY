@@ -6,7 +6,7 @@ function startAndRedirect() {
   startConfetti();
 
   setTimeout(() => {
-    window.location.href = "RIRI.html";
+    window.location.href = "RIRI.HTML";
   }, 1500);
 }
 
